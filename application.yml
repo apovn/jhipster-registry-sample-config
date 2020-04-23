@@ -5,7 +5,7 @@
 # Property used on app startup to check the config server status
 configserver:
     name: JHipster Registry config server
-    status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config !
+    status: Connected to the JHipster Registry config server
 
 # Default JWT secret token (to be changed in production!)
 jhipster:
@@ -16,4 +16,4 @@ jhipster:
 
 
 global:
-  test: git123
+  test: git1234
